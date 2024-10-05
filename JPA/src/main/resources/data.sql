@@ -1,0 +1,21 @@
+INSERT INTO item_table (price, quantity, sku, title)
+VALUES
+(10.5, 2, "bar10", "Milky Bar"),
+(20.5, 2, "bar20", "Choco Bar"),
+(15.0, 5, "bar30", "Candy Bar"),
+(25.0, 3, "bar40", "Nutty Bar"),
+(30.0, 1, "bar50", "Fruit Bar"),
+(12.5, 4, "bar60", "Dark Chocolate"),
+(8.0, 10, "bar70", "Gummy Bears"),
+(9.5, 6, "bar80", "Sour Worms"),
+(14.0, 8, "bar90", "Peanut Butter Cup"),
+(11.0, 7, "bar100", "Caramel Bar"),
+(22.0, 2, "bar110", "Coconut Bar"),
+(19.0, 3, "bar120", "Hazelnut Bar"),
+(16.5, 5, "bar130", "Mint Chocolate"),
+(17.0, 4, "bar140", "Milk Chocolate"),
+(23.0, 1, "bar150", "White Chocolate"),
+(13.5, 6, "bar160", "Almond Joy"),
+(21.0, 3, "bar170", "Rice Crispy Treat"),
+(18.0, 5, "bar180", "Cookie Dough"),
+(24.0, 2, "bar190", "Toffee Crunch");
